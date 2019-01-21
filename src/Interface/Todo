@@ -1,0 +1,15 @@
+Auslagern von Listen in ListModels
+
+Vereinfachen von Gruppen/Servern aus selektierten Listen
+evtl Gruppe aus ModelList mit GetSelectedGroup - ListModel sollte selektierten Eintrag kennen
+
+Kommentare implementieren
+
+vllt Impressum
+
+FileChooser für Einstellungen
+Verschieben der Dateien bei Änderung?
+
+Console für Debugging
+
+Verschlüsseln der Dateien
